@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "reflect-metadata": "0.1.2",
-    "@reactivex":""
+    "@reactivex": "5.0.0-alpha.7"
   },
   "devDependencies": {
     "bower": "1.7.1",
