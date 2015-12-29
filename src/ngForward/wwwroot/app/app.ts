@@ -6,7 +6,6 @@
 
         constructor() {
 
-
             this.text = 'bla bla bla';
         }
     }

@@ -1,7 +1,4 @@
-﻿
-var webpack = require('webpack');
-
-var CommonsChunkPlugin = webpack.optimize.CommonsChunkPlugin;
+﻿var webpack = require('webpack');
 
 module.exports = {
     entry: {

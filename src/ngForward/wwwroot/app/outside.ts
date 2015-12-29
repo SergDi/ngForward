@@ -27,6 +27,5 @@
     }
 
     angular.module('app.outside',[])
-        .directive('outside', OutsideDirective.$inject)
-        
+        .directive('outside', OutsideDirective.$inject)       
 }

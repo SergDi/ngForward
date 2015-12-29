@@ -1,5 +1,4 @@
-﻿
-import { bundle, Component } from 'ng-forward';
+﻿import { bundle, Component } from 'ng-forward';
 
 @Component({
     selector: 'forward',
