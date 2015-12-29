@@ -9,11 +9,11 @@
     `
 })
 
-class App {
+class ForwardController {
 
     constructor() {
 
     }
 }
 
-export bundle('app.forward', App);
+export bundle('app.forward', ForwardController);
