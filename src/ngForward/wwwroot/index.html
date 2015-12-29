@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <div ng-controller="appController as app">
+
+        <input ng-model="app.text"/>
+
+        <forward [(text)]="app.text"></forward>
+
+    </div>
+   
+    <script src="assets/angular/angular.js"></script>
+    <script src="bundle.js"></script>
+</body>
+</html>
